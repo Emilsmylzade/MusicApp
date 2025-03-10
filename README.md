@@ -2,16 +2,6 @@
 
 Dive into the world of music with my first Jetpack Compose app! This music app is designed to provide a seamless and enjoyable experience for music lovers. Explore a variety of tracks, playlists, and more, all within a sleek and modern user interface. Whether you're a casual listener or a music enthusiast, this app is here to enhance your musical journey. �🚀
 
-## Screenshots
-
-<div style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="Screenshot_1.png" alt="Main Screen" width="300" style="margin-right: 20px;">
-  <img src="s2.png" alt="Playlist Screen" width="300" style="margin-right: 20px;">
-  <img src="Screenshot_3.png" alt="Player Screen" width="300" style="margin-right: 20px;">
-  <img src="Screenshot_4.png" alt="Search Screen" width="300" style="margin-right: 20px;">
-  <img src="Screenshot_6.png" alt="Settings Screen" width="300" style="margin-right: 20px;">
-  <img src="Screenshot_7.png" alt="Profile Screen" width="300">
-</div>
 
 
 ## Technologies Used
