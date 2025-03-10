@@ -5,9 +5,14 @@ Dive into the world of music with my first Jetpack Compose app! This music app i
 ## Screenshots
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center;">
-  <img src="main_screen.png" alt="Screenshot 1" width="300" style="margin-right: 20px;">
-  <img src="playlist_screen.png" alt="Screenshot 2" width="300">
+  <img src="Screenshot_1.png" alt="Main Screen" width="300" style="margin-right: 20px;">
+  <img src="S2.png" alt="Playlist Screen" width="300" style="margin-right: 20px;">
+  <img src="player_screen.png" alt="Player Screen" width="300" style="margin-right: 20px;">
+  <img src="search_screen.png" alt="Search Screen" width="300" style="margin-right: 20px;">
+  <img src="settings_screen.png" alt="Settings Screen" width="300" style="margin-right: 20px;">
+  <img src="profile_screen.png" alt="Profile Screen" width="300">
 </div>
+
 
 ## Technologies Used
 
